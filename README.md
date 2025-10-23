@@ -28,9 +28,10 @@ LDR và điện trở tạo thành **mạch chia áp**, điểm giữa nối và
 
 ## Ảnh minh họa kết quả trên Teleplot
 
-![Đồ thị ánh sáng](KKK.png)
+![Đồ thị ánh sáng](Light.png)
 
 *Hình trên hiển thị đồ thị cường độ ánh sáng theo thời gian, được vẽ tự động bởi Teleplot.*
 
 
 ---
+
