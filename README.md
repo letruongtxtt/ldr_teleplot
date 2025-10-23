@@ -18,7 +18,7 @@ Dự án này minh họa cách sử dụng **ESP32** để đọc cường độ
 | Linh kiện | Kết nối |
 |------------|----------|
 | LDR | Một chân nối vào GPIO39, chân còn lại nối 3.3V |
-| Điện trở (10kΩ) | Nối giữa GPIO39 và GND |
+| Điện trở (1kΩ) | Nối giữa GPIO39 và GND |
 | ESP32 | Kết nối với máy tính qua cáp USB |
 
 **Nguyên lý:**  
@@ -34,4 +34,5 @@ LDR và điện trở tạo thành **mạch chia áp**, điểm giữa nối và
 
 
 ---
+
 
